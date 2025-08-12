@@ -42,3 +42,19 @@ PROCEDURE
 •	Execute the code
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
+
+Model Waveform
+<img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
+
+Program
+
+Output Graph
+
+
+Tablular Column
+
+
+Result
+
+Thus the DSB-SC-AM Modulation and Demodulation is generated.
+
